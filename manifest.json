@@ -1,8 +1,8 @@
 {
     "name": "FoundationToSoil",
-    "version_number": "0.9.0",
+    "version_number": "0.9.1",
     "website_url": "https://github.com/aki9284/DSPPlugin_FoundationToSoil",
-    "description": "Converts foundations into soil piles. No need to put the foundation on the ground just to collect soil piles anymore.",
+    "description": "Converts foundations into soil piles. No need to put foundations on the ground just to collect soil piles anymore.",
     "dependencies": [
         "xiaoye97-BepInEx-5.4.5"
     ]
