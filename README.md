@@ -1,6 +1,6 @@
 # DSPPlugin_FoundationToSoil
 
-Small Mod that converts foundations into soil piles. There is no need to put the foundation on the ground just to collect soil piles anymore.
+Small Mod that converts foundations into soil piles. There is no need to put foundations on the ground just to collect soil piles anymore.
 
 ## How to install
 
