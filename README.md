@@ -10,7 +10,7 @@ Small Mod that converts foundations into soil piles. There is no need to put fou
 ## How to use
 
 When you consume or gain soil piles, if you have only a certain amount of soil piles or less, the foundations in your inventory will be automatically conveted into soil piles.
-The amount threshold and converting rate can be configured with the following .cfg file. 
+The amount threshold and conversion rate can be configured with the following .cfg file. 
 (default threshold - 30k,  default rate - foundation 1: soil piles 500)
 
 steamapps\common\Dyson Sphere Program\BepInEx\config\aki9284.DSP.plugin.FoundationToSoil.cfg
