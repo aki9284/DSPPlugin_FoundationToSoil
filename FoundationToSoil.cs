@@ -57,7 +57,8 @@ namespace FoundationToSoil
 
             if ( fNumToConvert > 0)
             {
-                inventory.TakeItem(1131, fNumToConvert);
+                int dummy;
+                inventory.TakeItem(1131, fNumToConvert, out dummy);
                 __instance.SetSandCount(__instance.sandCount + fNumToConvert * configConvertRate.Value);
             }
         }
